@@ -9,5 +9,5 @@ jobs:
     steps:
       - name: Get code
         uses: actions/checkout@v3
-      - name: Simulate Deployment
-        run: echo "Website deployed successfully!"
+      - name: simulation
+        run: echo "Website  successfully!"
